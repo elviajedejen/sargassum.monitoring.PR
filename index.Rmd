@@ -1,15 +1,16 @@
 ---
-title: "RMarkdown Website Tutorial"
+title: "Sargassum Monitoring Puerto Rico"
 ---
 
-This is a tutorial for creating a website for free using RMarkdown and Github.
+This page was created to monitor the Sargassum events for the coast of the Southwestern Puerto Rico.
 
-## This is a header for my webpage
+## Sargassum monitoring Puerto Rico 
 
 ```{r, out.width="100%", echo=FALSE}
-knitr::include_graphics("GOPR1166.JPG")
+knitr::include_graphics("DJI_0827.JPG")
+style="text-align:center"
 ```
 
-This a website template for creating personal webpages for academic sciences to publicly share our code and science.
+This website was created to bring information to the public, and community to share a forecast and monitoring.
 
 [Read more about me...](about.html)
