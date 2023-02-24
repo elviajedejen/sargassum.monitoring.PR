@@ -7,6 +7,10 @@ This page was created to monitor the Sargassum events for the coast of the South
 ## Sargassum monitoring Puerto Rico 
 
 ```{r, out.width="100%", echo=FALSE}
+```
+
+
+```{r, out.width="100%", echo=FALSE}
 knitr::include_graphics("DJI_0827.JPG")
 ```
 
