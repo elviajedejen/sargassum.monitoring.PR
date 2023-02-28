@@ -1,0 +1,9 @@
+---
+title: "Floating Algae Product"
+---
+
+
+The Floating Algae INDEX (FAI) is a simple ocean color index created by Dr. Chuanmin Hu (2009) to detect surface floating algae in ocean environment.  this website was created to maintain the public informed of these seasonal events happening in the Southwestern of Puerto Rico.  Satellite data from Sentinel 2A/B is used at 10m spatial resolution to detect this events.  
+
+
+<a href="FAI_S2_22feb2023.jpeg#" class="download" title="Download FAI Sentinel2 22feb2023 as jpeg">Download CV</a>			
