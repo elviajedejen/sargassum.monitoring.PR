@@ -2,15 +2,15 @@
 title: "Sargassum Monitoring Puerto Rico"
 ---
 
-This page was created to monitor the Sargassum events for the coast of the Southwestern Puerto Rico.
+This page was created to monitor *Sargassum* events for the coast of the Southwestern Puerto Rico.
 
 ## Sargassum monitoring Puerto Rico 
 
 ```{r, out.width="100%", echo=FALSE}
 knitr::include_graphics("DJI_0827.JPG")
-style="text-align:center"
 ```
+ Image courtesy of certified drone pilot Pedro J. Santiago Cordero from Blue Skies Caribbean Drone Company.
 
-This website was created to bring information to the public, and community to share a forecast and monitoring.
+This website was created to bring information to the public, and community to share forecasts and monitoring of *Sargassum* arrivals and accumulation on the coast of the Southwestern Puerto Rico.
 
 [Read more about me...](about.html)

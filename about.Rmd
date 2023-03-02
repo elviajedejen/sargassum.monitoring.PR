@@ -6,10 +6,11 @@ Jenniffer Pérez-Pérez
 
 # Biography
 
-I am a NOAA EPP Earth System Sciences and Remote Sensing Scholar at the University of Puerto Rico pursuing a doctoral's degree in Biological Oceanography. My research focuses on monitoring massive, seasonal Sargassum accumulation on the fringing mangroves ecosystem in southwestern Puerto Rico using in-situ and satellite observations. The arrival of drifting pelagic Sargassum is important to assess and quantify due to its many impacts on coastal ecosystems and water quality. This research mission is to communicate risk due to climate change and from Sargassum accumulation and decomposition on tropical shorelines and shallow waters. My post-graduation plan is to pursue a job where all my skills can be utilezed.
+I am a NOAA EPP Earth System Sciences and Remote Sensing Scholar at the University of Puerto Rico pursuing a doctoral's degree in Biological Oceanography. My research focuses on monitoring massive, seasonal *Sargassum* accumulation on the fringing mangroves ecosystem in southwestern Puerto Rico using in-situ and satellite observations. The arrival of drifting pelagic *Sargassum* is important to assess and quantify due to its many impacts on coastal ecosystems and water quality. This research mission is to communicate risk due to climate change and from *Sargassum* accumulation and decomposition on tropical shorelines and shallow waters. My post-graduation plan is to pursue a job where all my skills can be utilezed.
 
 ```{r, out.width="25%", echo=FALSE}
 knitr::include_graphics("jenn.jpg")
+
 
   
 ```

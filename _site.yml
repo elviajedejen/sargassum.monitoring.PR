@@ -28,5 +28,7 @@ navbar:
       href: https://github.com/elviajedejen       # CHANGE HERE 
 output:
   html_document:
-    theme: cosmo
-    highlight: textmate
+    theme: united
+    highlight: tango
+    css: style.css
+    
